@@ -32,7 +32,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça o Projeto',
-          href: 'https://github.com/LordHiperion/agendaProject',
+          href: 'https://github.com/FernandoRodrigues91/agendaProject',
         },
       ],
     },
