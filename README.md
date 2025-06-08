@@ -1,6 +1,6 @@
 # Portfólio Pessoal - Fernando Rodrigues
 
-Este é o portfólio pessoal de **Fernando Rodrigues**, desenvolvido utilizando **Angular 17**, **Angular Material**, **HTML5**, **CSS3** e **SASS**. O objetivo do projeto é apresentar de forma interativa minha experiência profissional, habilidades e projetos realizados. A versão online do portfólio pode ser acessada [aqui](https://fernandorodrigues91.github.io/portfolio/).
+Este é o meu portfólio pessoal, desenvolvido utilizando **Angular 17**, **Angular Material**, **HTML5**, **CSS3** e **SASS**. O objetivo do projeto é apresentar de forma interativa minha experiência profissional, habilidades e projetos realizados. A versão online do portfólio pode ser acessada [aqui](https://fernandorodrigues91.github.io/portfolio/).
 
 ---
 
