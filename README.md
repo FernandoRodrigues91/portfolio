@@ -1,18 +1,17 @@
 # Portfólio Pessoal - Fernando Rodrigues
 
-Este é o portfólio pessoal de **Fernando Rodrigues**, desenvolvido utilizando **Angular 17**, **Angular Material**, **HTML5**, **CSS3** e **SASS**. O objetivo do projeto é apresentar de forma interativa minha experiência profissional, habilidades e projetos realizados. A versão online do portfólio pode ser acessada [aqui](https://fernandorodrigues91.github.io/portfolio/).
+Este é o meu portfólio pessoal, desenvolvido utilizando **Angular 17**, **Angular Material**, **HTML5**, **CSS3** e **SASS**. O objetivo do projeto é apresentar de forma interativa minha experiência profissional, habilidades e projetos realizados. A versão online do portfólio pode ser acessada [aqui](https://fernandorodrigues91.github.io/portfolio/).
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-- **Angular 17**: Framework moderno para construção de Single Page Applications (SPA), com foco em performance e escalabilidade.
-- **Angular Material**: Biblioteca de componentes UI baseada nas diretrizes do Material Design, proporcionando uma interface de usuário elegante e acessível.
-- **HTML5**: Estruturação do conteúdo do site de maneira semântica e responsiva.
-- **CSS3**: Estilização do portfólio utilizando propriedades modernas de design, como flexbox, grid, animações e transições.
+- **Angular 17**: Framework JavaScript para construção de Single Page Applications (SPA), utilizando o modelo MVC (Model-View-Controller).
+- **Angular Material**: Biblioteca de componentes de interface, que implementa as diretrizes do Material Design, garantindo uma experiência de usuário intuitiva e acessível.
+- **HTML5**: Linguagem de marcação utilizada para estruturar o conteúdo do site.
+- **CSS3**: Utilizado para estilização do layout do portfólio de forma responsiva e agradável.
 - **SCSS (SASS)**: Pré-processador CSS utilizado para facilitar a organização e manutenção dos estilos do projeto, com suporte a variáveis, mixins e funções.
+
 
 ---
 
@@ -126,3 +125,5 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 ---
 
 
+
+Se precisar de alguma alteração ou mais informações, estou à disposição para ajudar! 😊
