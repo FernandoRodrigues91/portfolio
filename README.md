@@ -124,6 +124,3 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 
 ---
 
-
-
-Se precisar de alguma alteração ou mais informações, estou à disposição para ajudar! 😊
