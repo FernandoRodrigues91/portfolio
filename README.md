@@ -28,8 +28,8 @@ A estrutura do projeto foi organizada de acordo com as boas práticas do Angular
 /components    # Componentes reutilizáveis como Navbar, Footer, etc.
 /pages         # Páginas do portfólio como Home, Sobre, Projetos, Contato
 /services      # Serviços (se houver) para interagir com APIs
-/assets          # Arquivos estáticos como imagens e fontes
-/styles          # Arquivos SASS para gerenciar a estilização global e componentes
+/assets        # Arquivos estáticos como imagens e fontes
+/styles        # Arquivos SASS para gerenciar a estilização global e componentes
 
 ```
 
