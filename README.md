@@ -10,7 +10,8 @@ Este é o meu portfólio pessoal, desenvolvido utilizando **Angular 17**, **Angu
 - **Angular Material**: Biblioteca de componentes de interface, que implementa as diretrizes do Material Design, garantindo uma experiência de usuário intuitiva e acessível.
 - **HTML5**: Linguagem de marcação utilizada para estruturar o conteúdo do site.
 - **CSS3**: Utilizado para estilização do layout do portfólio de forma responsiva e agradável.
-- **SASS**: Pré-processador CSS que organiza o código de estilos, facilitando a manutenção e personalização.
+- **SCSS (SASS)**: Pré-processador CSS utilizado para facilitar a organização e manutenção dos estilos do projeto, com suporte a variáveis, mixins e funções.
+
 
 ---
 
