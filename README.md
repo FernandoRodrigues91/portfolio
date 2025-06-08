@@ -8,8 +8,8 @@ Este é o meu portfólio pessoal, desenvolvido utilizando **Angular 17**, **Angu
 
 - **Angular 17**: Framework JavaScript para construção de Single Page Applications (SPA), utilizando o modelo MVC (Model-View-Controller).
 - **Angular Material**: Biblioteca de componentes de interface, que implementa as diretrizes do Material Design, garantindo uma experiência de usuário intuitiva e acessível.
-- **HTML5**: Linguagem de marcação utilizada para estruturar o conteúdo do site.
-- **CSS3**: Utilizado para estilização do layout do portfólio de forma responsiva e agradável.
+- **HTML5**: Linguagem de marcação utilizada para estruturar o conteúdo do site de maneira semântica e responsiva.
+- **CSS3**: Estilização do portfólio utilizando propriedades modernas de design, como flexbox, grid, animações e transições.
 - **SCSS (SASS)**: Pré-processador CSS utilizado para facilitar a organização e manutenção dos estilos do projeto, com suporte a variáveis, mixins e funções.
 
 
