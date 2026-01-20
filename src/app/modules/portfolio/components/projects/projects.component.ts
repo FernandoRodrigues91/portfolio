@@ -46,7 +46,7 @@ export class ProjectsComponent {
       links: [
         {
           name: 'Conheça o Projeto',
-          href: 'https://github.com/FernandoRodrigues91/todoListProject',
+          href: 'https://github.com/FernandoRodrigues91/listaDeTarefas',
         },
       ],
     },

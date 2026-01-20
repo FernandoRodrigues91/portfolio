@@ -16,48 +16,24 @@ export class ExperiencesComponent {
   public arrayExperiences = signal<IExperience[]>([
     {
       summary:{
-        strong:'Agenda Web',
-        p: 'Projeto Pessoal de CRUD iniciado e Finalizado em 2023'
+        strong:'G-Link',
+        p: 'Analista de Monitoramento (NOC) - Março 2025 até o momento'
       },
-      text:'<p>Projeto com interface simples para apresentar operação de CRUD com base em uma agenda de contatos.</p> <p>A plataforma um sistema de Login usando credencias de contas Google Auth para mais facil gerenciamento de credencias.</p> <p>Nesse projeto foi utilizado Framework Angular v14.2, HTML5, CSS3, JavaScript, TypeScript, BootStrap framework, Google Authentication.</p>'
+      text:'<p>Fasso parte da equipe do NOC (Network Operation Center) onde realizo o monitoramento da rede de Fibra Ótica visualizando o tráfego com mapas e alarmes em tempo real.</p> <p>Utilizamos de Ferramentas como PRTG, SecureCRT e Theraterm para acessar as OLTs que utilizamos (Nokia, FIberHome, ZTE c300/c330), ixcsoft, winbox.</p> <p>Auxiliamos as equipes de infraestrutura e equipe técnica de campo que realiza reparos aos clientes finais.</p>'
     }
   ])
   public arrayKnowledge = signal<IKnowledge[]>([
     {
-      src: 'assets/icons/knowledge/angular.svg',
-      alt: 'Ícone de conhecimento de Angular2+',
-      title: 'Angular'
+      src: 'assets/icons/knowledge/winbox.svg',
+      alt: 'Ícone de conhecimento de Winbox',
+      title: 'Winbox'
     },
     {
-      src: 'assets/icons/knowledge/bootstrap.svg',
-      alt: 'Ícone de conhecimento de Bootstrap',
-      title: 'Bootstrap'
+      src: 'assets/icons/knowledge/PRTG.svg',
+      alt: 'Ícone de conhecimento de PRTG',
+      title: 'PRTG'
     },
-    {
-      src: 'assets/icons/knowledge/html5.svg',
-      alt: 'Ícone de conhecimento de HTML5',
-      title: 'HTML5'
-    },
-    {
-      src: 'assets/icons/knowledge/css3.svg',
-      alt: 'Ícone de conhecimento de CSS3',
-      title: 'CSS3'
-    },
-    {
-      src: 'assets/icons/knowledge/javascript.svg',
-      alt: 'Ícone de conhecimento de JavaScript',
-      title: 'JavaScript'
-    },
-    {
-      src: 'assets/icons/knowledge/sass.svg',
-      alt: 'Ícone de conhecimento de SASS',
-      title: 'SASS'
-    },
-    {
-      src: 'assets/icons/knowledge/google.svg',
-      alt: 'Ícone de conhecimento em Google Authentication',
-      title: 'Google Auth'
-    },
+
 
   ])
 }
