@@ -36,6 +36,20 @@ export class ProjectsComponent {
         },
       ],
     },
+    {
+      src: 'assets/img/projects/Lista de Tarefas Icon.png',
+      alt: "Projeto Lista de Tarefas",
+      title: "Lista de Tarefas",
+      with:'160px',
+      height: '155px',
+      description: '<p>Lista de Tarefas, uma aplicação simples e interativa para gerenciar suas tarefas diárias. O projeto foi desenvolvido com Angular 17, SASS/SCSS, Angular Material</p> <p>O projeto consiste em uma plataforma de lista de tarefas de simples manuseio apresentando a proposta de marcar tarefas que irá fazer onde o usuário pode criar tarefas, alterar e deletar de uma forma simples e prática!</p>',
+      links: [
+        {
+          name: 'Conheça o Projeto',
+          href: 'https://github.com/FernandoRodrigues91/todoListProject',
+        },
+      ],
+    },
   ]);
 
   public openDialog(data: IProjects) {

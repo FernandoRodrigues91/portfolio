@@ -12,7 +12,7 @@
       <h2>Ferramentas Utilizadas</h2>
       <ul>
         @for (item of arrayKnowledge(); track item) {
-          <li>
+          <li [matTooltip]="item.title">
             <img
             [src]="item.src"
             [alt]="item.alt"
