@@ -33,6 +33,11 @@ export class ExperiencesComponent {
       alt: 'Ícone de conhecimento de PRTG',
       title: 'PRTG'
     },
+    {
+      src: 'assets/icons/knowledge/grafana.svg',
+      alt: 'Ícone de conhecimento de Grafana',
+      title: 'Grafana'
+    },
 
 
   ])

@@ -48,6 +48,21 @@ export class KnowledgeComponent {
       alt: 'Ícone de conhecimento em Google Authentication',
       title: 'Google Auth'
     },
+      {
+      src: 'assets/icons/knowledge/winbox.svg',
+      alt: 'Ícone de conhecimento de Winbox',
+      title: 'Winbox'
+    },
+    {
+      src: 'assets/icons/knowledge/PRTG.svg',
+      alt: 'Ícone de conhecimento de PRTG',
+      title: 'PRTG'
+    },
+    {
+      src: 'assets/icons/knowledge/grafana.svg',
+      alt: 'Ícone de conhecimento de Grafana',
+      title: 'Grafana'
+    },
 
   ])
 
