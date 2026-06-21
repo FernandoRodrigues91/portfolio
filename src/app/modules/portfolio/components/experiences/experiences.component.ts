@@ -19,7 +19,7 @@ export class ExperiencesComponent {
         strong:'G-Link',
         p: 'Analista de Monitoramento (NOC) - Março 2025 até o momento'
       },
-      text:'<p>Faço parte da equipe do NOC (Network Operation Center) onde realizo o monitoramento da rede de Fibra Ótica visualizando o tráfego com mapas e alarmes em tempo real.</p> <p>Utilizamos de Ferramentas como PRTG, SecureCRT e Theraterm para acessar as OLTs que utilizamos (Nokia, FIberHome, ZTE c300/c330), ixcsoft, winbox.</p> <p>Auxiliamos as equipes de Infraestrutura de Redes e equipe técnica de campo que realiza reparos e instalações aos clientes domésticos e comerciais.</p>'
+      text:'<p>Faço parte da equipe do NOC (Network Operation Center) Monitoramento proativo de redes multi-cliente em ambiente com mais de 30 POPs, utilizando PRTG Network Monitor.</p> <p>Utilizamos de Ferramentas como PRTG, SecureCRT para acessar as OLTs que utilizamos (Nokia, FIberHome, ZTE c300/c330), ixcsoft, winbox.</p> <p>Utilização do IXC Soft e IXC ACS para gerenciamento de clientes, suporte a provisionamentos e consultas operacionais em ambiente ISP. </p>'
     }
   ])
   public arrayKnowledge = signal<IKnowledge[]>([
